@@ -1,0 +1,7 @@
+<resources>
+    <color name="black_bg">#030712</color>
+    <color name="card_dark">#000000</color>
+    <color name="electric_blue">#1A52CD</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_text">#8B949E</color>
+</resources>
